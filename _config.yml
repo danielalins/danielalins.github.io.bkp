@@ -1,3 +1,8 @@
 theme: jekyll-theme-architect
+
+# propriedades do tema
 title: Psicóloga Daniela Lins
 description: Site para divulgação do meu trabalho como psicóloga e informações de contato.
+
+# propriedades do site
+whatsapp-number: 41987237281
